@@ -37,3 +37,4 @@ This project demonstrates my ability to organise property cost data, analyse exp
 
 ## Project File
 The Excel version of the interactive dashboard is included in this repository.
+![Property Utility Cost Tracker Dashboard](dashboard%20preview.png)
